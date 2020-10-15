@@ -34,5 +34,5 @@ public class homework3_cal
             System.out.println(cal(i));
         else
             System.out.println(super_cal(i));
+        }
     }
-}
